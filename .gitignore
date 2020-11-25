@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.pth
 *.tar.gz
+*.virtual_documents
 
 # C extensions
 *.so
